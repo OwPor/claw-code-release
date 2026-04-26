@@ -1,0 +1,5 @@
+{
+  "model": "nvidia/nemotron-3-super-120b-a12b:free",
+  "OPENAI_BASE_URL": "https://openrouter.ai/api/v1",
+  "OPENAI_API_KEY": "sk-or-v1-YOUR-OPENROUTER-KEY"
+}
