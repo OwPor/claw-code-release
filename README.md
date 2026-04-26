@@ -62,7 +62,6 @@ Because this setup routes through OpenRouter's OpenAI-compatible endpoint.
 **Examples:**
 * `"model": "nvidia/nemotron-3-super-120b-a12b:free"`
 * `"model": "google/gemini-2.5-pro"`
-* `"model": "qwen/qwen-2.5-coder-32b-instruct"`
 
 ## ⚙️ How it Works
 To avoid polluting your global Windows Registry with permanent API keys, this setup uses a custom launcher:
