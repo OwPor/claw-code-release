@@ -1,3 +1,6 @@
+## NO AUTO UPDATE
+## CHECK OFFICIAL CLAW CODE
+
 # 🦞 Claw Code (Windows Portable Wrapper)
 
 A pre-compiled Windows setup for `claw-code` (the Rust reimplementation of Anthropic's Claude Code CLI). 
